@@ -1,0 +1,13 @@
+#counterlabel{
+    display: block;
+    text-align: center;
+    font-size: 50px
+
+}
+
+button{
+    height: 60px;
+    width: 120px;
+    align-items:flex-end ;
+    background-color: aliceblue;
+}
