@@ -1,7 +1,7 @@
 let a;
 let b;
 let c;
-
+let d;
 // a = window.prompt("Unesite vrednost za a :");
 // a = Number(a);
 // b = window.prompt("Unesite vrednost za b :");
